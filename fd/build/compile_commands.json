@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/zqm/fd/build",
+  "command": "/usr/bin/c++  -I/home/zqm/fd/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/image_processing.dir/src/main.cpp.o -c /home/zqm/fd/src/main.cpp",
+  "file": "/home/zqm/fd/src/main.cpp"
+},
+{
+  "directory": "/home/zqm/fd/build",
+  "command": "/usr/bin/c++  -I/home/zqm/fd/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/image_processing.dir/src/image_processor.cpp.o -c /home/zqm/fd/src/image_processor.cpp",
+  "file": "/home/zqm/fd/src/image_processor.cpp"
+},
+{
+  "directory": "/home/zqm/fd/build",
+  "command": "/usr/bin/c++  -I/home/zqm/fd/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/image_processing.dir/src/ImageData.cpp.o -c /home/zqm/fd/src/ImageData.cpp",
+  "file": "/home/zqm/fd/src/ImageData.cpp"
+}
+]
